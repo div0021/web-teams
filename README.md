@@ -28,12 +28,12 @@
 
 ## Overview
 
-![screenshot]https://github.com/div0021/web-teams/blob/main/Screenshot.png
+![screenshot](https://github.com/div0021/web-teams/blob/main/Screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  You will get demo of this project on https://div0021.github.io/web-teams/
+  You will get demo of this project on (https://div0021.github.io/web-teams/)
 
 
 
